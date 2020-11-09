@@ -16,6 +16,10 @@ h1{
     padding-left: 25%;
 }
 
+input{
+	display: block;
+}
+
 h2{
     font-family: 'Amatic SC', cursive;
     color: white;
